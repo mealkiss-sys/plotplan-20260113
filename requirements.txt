@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+
+# 웹 요청/응답
+requests
+
+# 환경변수 관리
+python-dotenv
+
+# JSON / 데이터 처리
+pydantic
+
+# 배포 안정성용
+gunicorn
